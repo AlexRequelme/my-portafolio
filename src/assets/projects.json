@@ -1,0 +1,20 @@
+[
+    {
+        "name": "QuickJobs", 
+        "desc": "A web page written in NextJs / React that allows us to search for a job for Ecuador between different work areas", 
+        "url": "https://trabajoec.vercel.app/",
+        "technologies": [ "NextJs", "React", "MongoDB", "AWS Lambda" ]
+    },
+    {
+        "name": "Tumster", 
+        "desc": "A website where companies can promote their products, increase web visits, build email lists, and grow their audience by creating giveaways", 
+        "url": "https://tumster.io/",
+        "technologies": [ "Angular", ".Net 5", "MariaDB", "Digital Ocean" ]
+    },
+    {
+        "name": "FacilTask", 
+        "desc": "A web page where work teams can manage their projects, in addition to being able to organize and collaborate tasks according to the Kanban methodology", 
+        "url": "#",
+        "technologies": [ "React", "NextJs", "MongoDB", "Tailwindcss" ]
+    }
+]
